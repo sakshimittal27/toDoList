@@ -1,2 +1,2 @@
-# toDoList-app
+# toDoList
 https://sakshi-todolist.herokuapp.com/
